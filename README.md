@@ -16,7 +16,7 @@ You can start by modeling a "pure" domain driven by Unit Tests, and then wire up
 ## 🚀 How to Participate
 
 1. **Fork** this repository to your GitHub account.
-2. Clone your fork locally: `git clone https://github.com/YOUR-ACCOUNT/ddd-tactical-kata.git`
+2. Clone your fork locally: `git clone https://github.com/YOUR-ACCOUNT/ddd-kata.git`
 3. Create a branch with your name: `git checkout -b kata-name-surname`
 4. Choose one of the three folders (01, 02, or 03) and explore the requirements in its `README.md`.
 5. Open a **Draft Pull Request** immediately against the original repository. This allows the facilitator and other participants to see your progress, discuss architectural choices, and provide real-time feedback.
